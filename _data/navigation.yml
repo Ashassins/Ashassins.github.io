@@ -1,6 +1,5 @@
 # main links
 main:
-  
   - title: "Blog"
     url: /blog/
   - title: "Projects"
@@ -10,4 +9,4 @@ main:
   - title: "About"
     url: /about-me/
   - title: "Contact Me"
-    url: /contact/  
+    url: /contact/
