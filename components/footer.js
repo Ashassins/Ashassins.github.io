@@ -1,10 +1,10 @@
 const footerTemplate = document.createElement('template');
 
 footerTemplate.innerHTML = `
-<style> 
-    @import url("https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css");
-    @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
-</style>
+    <style> 
+        @import url("https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css");
+        @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+    </style>
     <div class="container">
         <footer class="py-5">
         <div class="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
