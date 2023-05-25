@@ -1,0 +1,21 @@
+:root {
+    --bs-primary: mediumaquamarine; 
+    /*This is getting replaced, but nothing is reading bs-primary and is instead using some hardcoded rgb...*/
+    --bs-secondary: green;
+}
+
+.my-image-container {
+    overflow:hidden; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center
+}
+
+.my-image-fluid {
+    object-fit: cover; object-position: center; height: 100%; width:100%
+}
+
+.my-carousel-sizing {
+    width: 100%;
+    height: 400px;
+}
