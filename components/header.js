@@ -19,7 +19,7 @@ headerTemplate.innerHTML = `
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                    <a class="nav-link" href="#">Fun</a>
+                    <a class="nav-link" href="fun.html">Fun</a>
                     </li>
                     <li class="nav-item">
                     <a class="nav-link" href="projects.html">Projects</a>
