@@ -6,7 +6,7 @@ footerTemplate.innerHTML = `
         @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
     </style>
     <div class="container">
-        <footer class="py-5">
+        <footer class="py-2">
         <div class="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
             <p>© 2022 Ashassins. All rights reserved.</p>
             <ul class="list-unstyled d-flex">

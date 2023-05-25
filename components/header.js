@@ -1,5 +1,9 @@
 const headerTemplate = document.createElement('template');
-
+/*
+<li class="nav-item">
+    <a class="nav-link" href="blog.html">Blog</a>
+</li>
+*/
 headerTemplate.innerHTML = `
 <style> 
     @import url("https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css");
@@ -26,9 +30,6 @@ headerTemplate.innerHTML = `
                     </li>
                     <li class="nav-item">
                     <a class="nav-link" href="resume.html">Resume</a>
-                    </li>
-                    <li class="nav-item">
-                    <a class="nav-link" href="blog.html">Blog</a>
                     </li>
                 </ul>
                 <div>
