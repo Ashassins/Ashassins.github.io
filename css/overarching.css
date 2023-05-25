@@ -5,7 +5,7 @@
 }
 
 .my-image-container {
-    overflow:hidden; 
+    overflow: hidden; 
     display: flex; 
     justify-content: center; 
     align-items: center
@@ -17,5 +17,9 @@
 
 .my-carousel-sizing {
     width: 100%;
-    height: 400px;
+    height: 500px;
+}
+
+.my-fonts {
+    font-family: "Playfair Display", Georgia, "Times New Roman", serif/*rtl:Amiri, Georgia, "Times New Roman", serif*/;
 }
