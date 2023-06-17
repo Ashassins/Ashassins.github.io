@@ -4,6 +4,9 @@
     --bs-secondary: green;
 }
 
+.theme-light-accent-1 {
+    color: mediumaquamarine;
+}
 .my-image-container {
     overflow: hidden; 
     display: flex; 
